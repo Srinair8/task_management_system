@@ -9,7 +9,7 @@ A simple task management system using HTML, CSS, JavaScript, MySQL, Laravel wher
 
 ## Setup Instructions
 ### 1. Clone the Repository
-git clone <repository-url>
+git clone repository-url
 cd <project-directory>
 
 ### 2. Install Dependencies
