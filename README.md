@@ -8,10 +8,7 @@ A simple task management system using HTML, CSS, JavaScript, MySQL, Laravel wher
 - XAMPP (for local server)
 
 ## Setup Instructions
-
-### 1. Clone the Repository
-
-```sh
+### 1. Clone the Repository```sh
 git clone <repository-url>
 cd <project-directory>
 
