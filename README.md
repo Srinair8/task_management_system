@@ -35,7 +35,8 @@ The application will be available at http://localhost:8000.
 1) Create a Task: Navigate to /tasks/create and fill in the form.
 2) View Tasks: Navigate to /tasks to see the list of tasks.
 3) Edit a Task: Click on 'Edit' next to a task to modify it.
-40 Delete a Task: Click on 'Delete' next to a task to remove it.
+4) Delete a Task: Click on 'Delete' next to a task to remove it.
+5) Additionally there is a search functionality to filter tasks based on the title or status
 
 ########Commands Overview
 1) Starting the server: php artisan serve
