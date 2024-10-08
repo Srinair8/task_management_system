@@ -31,9 +31,12 @@ php artisan serve
 
 The application will be available at http://localhost:8000.
 
+Navigate to http://127.0.0.1:8000/tasks/ to go the task list page
+
 ########Usage
 1) Create a Task: Navigate to /tasks/create and fill in the form.
-2) View Tasks: Navigate to /tasks to see the list of tasks.
+      http://localhost:8000/create
+2) View Tasks: Navigate to http://localhost:8000/tasks to see the list of tasks.
 3) Edit a Task: Click on 'Edit' next to a task to modify it.
 4) Delete a Task: Click on 'Delete' next to a task to remove it.
 5) Additionally there is a search functionality to filter tasks based on the title or status
